@@ -1,6 +1,5 @@
 # SE20UARI142-Omniverse
-Situation:<br>
-The digital scene consists of a hospital patient room as the setting, with a patient and a nurse as the key objects.<br>
+Situation: The digital scene consists of a hospital patient room as the setting, with a patient and a nurse as the key objects.<br>
 <br>
 Usecases:<br>
 
